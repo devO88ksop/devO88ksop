@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kyaw Swe.
-- 👀 I’m interested in FULLSTACK development.
+- 👀 I’m interested in FULLSTACK Development.
 - 🌱 I’m currently learning PHP,laravel,Javascript,React.
 - 📫 How to reach me kyawswe411@gmail.com
 
